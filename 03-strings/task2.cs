@@ -9,4 +9,3 @@ class Program
         // Find dot position
     }
 }
-\en
