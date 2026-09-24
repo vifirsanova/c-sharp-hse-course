@@ -1,3 +1,6 @@
+/*
+Выведите на экран имя файла
+*/
 using System;
 
 class Program
