@@ -7,3 +7,6 @@
 |Подсчет координат|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/02-operations/task1.cs)(допишите код, опираясь на комментарии)|10.10.2026, 23:59|
 |Средняя скорость|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/02-operations/task2.cs)(допишите код, опираясь на комментарии)|10.10.2026, 23:59|
 |Перевод температуры|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/02-operations/task3.cs)(допишите код, опираясь на комментарии)|10.10.2026, 23:59|
+|Приветствие 2|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/03-strings/task1.cs)(допишите код, опираясь на комментарии)|12.10.2026, 23:59|
+|Вывести имя файла|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/03-strings/task2.cs)(допишите код, опираясь на комментарии)|12.10.2026, 23:59|
+|Вывести числа|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/03-strings/task3.cs)(допишите код, опираясь на комментарии)|12.10.2026, 23:59|
