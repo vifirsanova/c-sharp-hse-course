@@ -16,7 +16,6 @@
 |Практикум. Координаты|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task1.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
 |Практикум. Скорость|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task2.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
 |Практикум. Температура|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task3.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
-|Практикум. Температура|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task3.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
 |Практикум. 3D-модель|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task4.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
 |Практикум. Преобразование типов|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task5.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
 |Практикум. Разбор строки|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task6.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
