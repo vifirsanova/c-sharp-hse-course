@@ -22,4 +22,4 @@
 |Практикум. Имя файла|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task7.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
 |Практикум. Комплексная задача|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task8.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
 |Прислать скриншот консоли Unity с запущенным Hello World и привязкой к объекту|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/unity.md)|20.10.2026, 23:59|
-|Задачи на условия и циклы|условия будут опубликованы позже|20.10.2026, 23:59|
+|Задачи на условия и циклы|[Задачи](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/06-if-for), условия сдачи будут опубликованы позже|20.10.2026, 23:59|
