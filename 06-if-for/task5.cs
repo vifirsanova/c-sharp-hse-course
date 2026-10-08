@@ -1,21 +1,22 @@
 /*
-Задача 5. Таблица умножения
-Пользователь вводит число.
-Программа:
-1. принимает число через Console.ReadLine()
-2. выводит таблицу умножения этого числа от 1 до 10
-   в формате "<число> x <i> = <произведение>"
-3. в конце выводит сумму всех результатов
+Задача 5 (урон). Расчёт урона по уровням
+Скрипт прикреплён к объекту.
+В Update программа:
+1. при каждом нажатии клавиши Q увеличивает счётчик атак на 1
+2. при достижении 3 атак запускает цикл for от 1 до 5
+   и для каждого уровня выводит "<baseDamage> x <level> = <урон>"
+3. после вывода таблицы выводит "---" и сбрасывает счётчик атак в 0
 */
 
-using System;
+using UnityEngine;
 
-class Program
+public class DamageOnThreshold : MonoBehaviour
 {
-  static void Main(string[] args)
-  {
-    Console.Write("Enter a number: ");
-    int number = int.Parse(Console.ReadLine());
-    // ваш код здесь
-  }
+    private int count = 0;
+    public int baseDamage = 7;
+
+    void Update()
+    {
+        // ваш код здесь
+    }
 }
