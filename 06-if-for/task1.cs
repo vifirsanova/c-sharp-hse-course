@@ -1,21 +1,20 @@
 /*
-Задача 1. Чётное или нечётное
-Пользователь вводит целое число.
-Программа:
-1. принимает число через Console.ReadLine()
-2. определяет, чётное оно или нечётное
-3. выводит "<число> is even" или "<число> is odd"
-4. дополнительно проверяет: если число равно 0 — вывести "zero"
+Задача 1. Счётчик нажатий с порогомЗадача 1. Счётчик нажатий с порогом
+Скрипт прикреплён к объекту.
+В Update программа:
+1. при каждом нажатии Space увеличивает счётчик на 1
+2. выводит "Press count: <значение>"
+3. при достижении 5 нажатий выводит "Five presses reached!"
 */
 
-using System;
+using UnityEngine;
 
-class Program
+public class PressCounter : MonoBehaviour
 {
-  static void Main(string[] args)
-  {
-    Console.Write("Enter a number: ");
-    int number = int.Parse(Console.ReadLine());
-    // ваш код здесь
-  }
+    private int count = 0;
+
+    void Update()
+    {
+        // ваш код здесь
+    }
 }
