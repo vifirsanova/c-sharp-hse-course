@@ -1,21 +1,24 @@
 /*
-Задача 6. Факториал
-Пользователь вводит число N (N >= 0).
-Программа:
-1. принимает N через Console.ReadLine()
-2. считает факториал N! через цикл for
-3. выводит "N! = <результат>"
-4. если N < 0 — вывести "Factorial is not defined for negative numbers"
+Задача 6 (золото). Покупка и серия улучшений
+Скрипт прикреплён к объекту.
+В Update программа:
+1. при каждом нажатии клавиши R увеличивает счётчик улучшений на 1
+2. при достижении 5 улучшений запускает цикл for от 5 до 1
+   и для каждого уровня выводит "<level>... -<cost> gold"
+3. после цикла выводит "Upgrade complete!"
+4. сбрасывает счётчик в 0
 */
 
-using System;
+using UnityEngine;
 
-class Program
+public class UpgradePurchase : MonoBehaviour
 {
-  static void Main(string[] args)
-  {
-    Console.Write("Enter N: ");
-    int n = int.Parse(Console.ReadLine());
-    // ваш код здесь
-  }
+    private int count = 0;
+    public int gold = 500;
+    public int costPerLevel = 20;
+
+    void Update()
+    {
+        // ваш код здесь
+    }
 }
