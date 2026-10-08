@@ -1,27 +1,22 @@
 /*
-Задача 2. Максимум из трёх
-Пользователь вводит три числа.
-Программа:
-1. принимает три числа через Console.ReadLine()
-2. определяет наибольшее из них
-3. выводит "Max: <наибольшее>"
-4. если все три числа равны — вывести "All equal"
+Задача 2. Переключатель цвета по чётности
+Скрипт прикреплён к объекту с Renderer.
+В Update программа:
+1. при каждом нажатии клавиши E увеличивает счётчик на 1
+2. если счётчик чётный — красит объект в красный
+3. если нечётный — красит объект в синий
+4. выводит "Count: <значение>, color: <red/blue>"
 */
 
-using System;
+using UnityEngine;
 
-class Program
+public class ColorByParity : MonoBehaviour
 {
-  static void Main(string[] args)
-  {
-    Console.Write("Enter first number: ");
-    int a = int.Parse(Console.ReadLine());
+    private int count = 0;
 
-    Console.Write("Enter second number: ");
-    int b = int.Parse(Console.ReadLine());
-
-    Console.Write("Enter third number: ");
-    int c = int.Parse(Console.ReadLine());
-    // ваш код здесь
-  }
+    void Update()
+    {
+        // ваш код здесь
+        // подсказка: GetComponent<Renderer>().material.color = Color.red;
+    }
 }
