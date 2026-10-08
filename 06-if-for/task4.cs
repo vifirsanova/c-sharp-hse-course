@@ -1,21 +1,23 @@
 /*
-Задача 4. Сумма чисел от 1 до N
-Пользователь вводит число N.
-Программа:
-1. принимает N через Console.ReadLine()
-2. считает сумму всех чисел от 1 до N
-3. выводит "Sum: <сумма>"
-4. дополнительно выводит среднее арифметическое
+Задача 4 (инвентарь). Накопление предметов и подсчёт стоимости
+Скрипт прикреплён к объекту.
+В Update программа:
+1. при каждом нажатии Space добавляет в инвентарь 1 монету
+2. при достижении 5 монет запускает цикл for от 1 до count
+   и считает суммарную стоимость всех монет (каждая монета стоит 10)
+3. выводит "Coins: <count>, total value: <сумма>"
+4. после вывода очищает инвентарь (count = 0)
 */
 
-using System;
+using UnityEngine;
 
-class Program
+public class InventoryValue : MonoBehaviour
 {
-  static void Main(string[] args)
-  {
-    Console.Write("Enter N: ");
-    int n = int.Parse(Console.ReadLine());
-    // ваш код здесь
-  }
+    private int count = 0;
+    private int coinValue = 10;
+
+    void Update()
+    {
+        // ваш код здесь
+    }
 }
