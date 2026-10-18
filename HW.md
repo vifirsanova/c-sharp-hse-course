@@ -13,13 +13,13 @@
 |Подбор типов данных|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/04-types/task1.md)(допишите код, опираясь на комментарии)|15.10.2026, 23:59|
 |Переменные для 3D-объекта|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/04-types/task2.cs)(допишите код, опираясь на комментарии)|15.10.2026, 23:59|
 |Преобразование типов|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/04-types/task3.cs)(допишите код, опираясь на комментарии)|15.10.2026, 23:59|
-|Практикум. Координаты|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task1.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
-|Практикум. Скорость|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task2.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
-|Практикум. Температура|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task3.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
-|Практикум. 3D-модель|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task4.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
-|Практикум. Преобразование типов|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task5.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
-|Практикум. Разбор строки|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task6.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
-|Практикум. Имя файла|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task7.cs)(допишите код, опираясь на комментарии)|17.10.2026, 23:59|
+|Практикум. Координаты|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task1.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
+|Практикум. Скорость|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task2.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
+|Практикум. Температура|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task3.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
+|Практикум. 3D-модель|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task4.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
+|Практикум. Преобразование типов|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task5.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
+|Практикум. Разбор строки|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task6.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
+|Практикум. Имя файла|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task7.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
 |Практикум. Комплексная задача|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/05-practice/task8.cs)(допишите код, опираясь на комментарии)|20.10.2026, 23:59|
 |Прислать скриншот консоли Unity с запущенным Hello World и привязкой к объекту|[Кликни меня](https://github.com/vifirsanova/c-sharp-hse-course/blob/main/unity.md)|20.10.2026, 23:59|
 |Задачи на условия и циклы|[Задачи](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/06-if-for), [как сдавать](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/06-if-for)|28.10.2026, 23:59|
