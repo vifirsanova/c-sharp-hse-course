@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Seminar8
+namespace Methods
 {
     // ------------------------------------------------------------
     // ЗАДАЧА 1. Приветствие для AR-маркера
