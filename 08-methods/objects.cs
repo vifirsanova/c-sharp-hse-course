@@ -80,7 +80,7 @@ namespace Objects
     // Тема: корутины + Instantiate + WaitForSeconds.
     // Условие: SpawnWave() в бесконечном цикле создаёт бонус
     // в случайной точке и ждёт 2 сек. Вторая корутина останавливает
-    // через 10 сек.
+    // через 10 сек. ТРЕБУЕТСЯ СКРИНШОТ
     public class Task4_Spawner : MonoBehaviour
     {
         public GameObject bonusPrefab;
