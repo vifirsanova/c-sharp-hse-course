@@ -13,6 +13,8 @@
 3. Renderer r = marker.GetComponent<Renderer>().
 4. Если r != null — r.material.color = Color.green.
 5. Иначе — Debug.Log(marker.name + " has no Renderer").
+
+ТРЕБУЕТСЯ СКРИНШОТ
 */
 
 using UnityEngine;
