@@ -14,6 +14,8 @@
 4. Через второй switch expression получить Color color по mode.
 5. Присвоить color в indicator.material.color.
 6. Вывести "Mode: " + name.
+
+ТРЕБУЕТСЯ СКРИНШОТ
 */
 
 using UnityEngine;
