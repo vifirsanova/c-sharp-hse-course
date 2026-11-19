@@ -1,5 +1,8 @@
 | Домашка | Условия | Дедлайн |
 |---------|---------|---------|
-|Задачи на while|[Список задач к сдаче](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/07-while)|?|
-|Задачи на методы|[Список задач к сдаче](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/07-while)|?|
-|Финальный проект|[Список задач к сдаче](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/07-while)|?|
+|Задачи на while|[Список задач к сдаче](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/07-while)|5 декабря|
+|Описание финального проекта|[Описание документа к сдаче](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/07-while)|10 декабря|
+|Задачи на методы|[Список задач к сдаче](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/07-while)|15 декабря|
+|Финальный проект|[Список задач к сдаче](https://github.com/vifirsanova/c-sharp-hse-course/tree/main/07-while)|21 декабря|
+
+Все решения, включая описание финального проекта, прикрепляем в свой гитхаб-репозиторий. Убедитесь, что ссылка на него есть в таблице. Задания можно выполнять как в группе, так и индивидуально. Также необходимо прикрепить не менее трёх скриншотов из Unity с результатами выполнения программ. 
