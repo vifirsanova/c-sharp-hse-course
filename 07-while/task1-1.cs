@@ -14,6 +14,8 @@
    и выводить процент в консоль.
 4. После цикла покрасить indicator в Color.green.
 5. Вывести "Controller ready!".
+
+ТРЕБУЕТСЯ СКРИНШОТ
 */
 
 using UnityEngine;
