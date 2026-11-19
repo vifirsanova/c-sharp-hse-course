@@ -15,7 +15,7 @@ namespace Methods
     // - В Update() вызывать ShowHint() при нажатии клавиши R
     //   (Input.GetKeyDown(KeyCode.R)).
     //
-    // Unity: скрипт повесить на Main Camera, сцена пустая.
+    // Unity: скрипт повесить на Main Camera, сцена пустая. ТРЕБУЕТСЯ СКРИНШОТ
     // ------------------------------------------------------------
     public class Task1_ShowHint : MonoBehaviour
     {
